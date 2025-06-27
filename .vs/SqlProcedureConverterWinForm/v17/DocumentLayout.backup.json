@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|g:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\sql\u8F49\u78BCstoredprocedure\u5EFA\u7ACB\u78BC\\sqlprocedureconverterwinform\\sqltostoredprocedureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|solutionrelative:sqltostoredprocedureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|g:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\sql\u8F49\u78BCstoredprocedure\u5EFA\u7ACB\u78BC\\sqlprocedureconverterwinform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA4A0F89-E9C4-4F97-8040-A0A074D729EA}|SqlProcedureConverterWinForm.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlToStoredProcedureConverter.cs",
+              "DocumentMoniker": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\SqlToStoredProcedureConverter.cs",
+              "RelativeDocumentMoniker": "SqlToStoredProcedureConverter.cs",
+              "ToolTip": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\SqlToStoredProcedureConverter.cs",
+              "RelativeToolTip": "SqlToStoredProcedureConverter.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:01:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:56:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "G:\\@\u5C08\u6848\u8CC7\u6599\\\u986F\u63DA\u8CC7\u8A0A\\@\u901A\u7528\u7A0B\u5F0F\\SQL\u8F49\u78BCStoredProcedure\u5EFA\u7ACB\u78BC\\SqlProcedureConverterWinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\seita\\Downloads\\SqlProcedureConverterWinForm (1)\\SqlProcedureConverterWinForm\\MainForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:57:29.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

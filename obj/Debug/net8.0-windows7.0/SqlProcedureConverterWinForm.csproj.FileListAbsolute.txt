@@ -1,0 +1,32 @@
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.exe
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.deps.json
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.runtimeconfig.json
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.dll
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.pdb
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.MainForm.resources
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.csproj.GenerateResource.cache
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.AssemblyInfoInputs.cache
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.AssemblyInfo.cs
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.csproj.CoreCompileInputs.cache
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.dll
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\refint\SqlProcedureConverterWinForm.dll
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.pdb
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.genruntimeconfig.cache
+C:\Users\seita\Downloads\SqlProcedureConverterWinForm (1)\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\ref\SqlProcedureConverterWinForm.dll
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.exe
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.deps.json
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.runtimeconfig.json
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.dll
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\bin\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.pdb
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.MainForm.resources
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.csproj.GenerateResource.cache
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.GeneratedMSBuildEditorConfig.editorconfig
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.AssemblyInfoInputs.cache
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.AssemblyInfo.cs
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.csproj.CoreCompileInputs.cache
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.dll
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\refint\SqlProcedureConverterWinForm.dll
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.pdb
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\SqlProcedureConverterWinForm.genruntimeconfig.cache
+G:\@專案資料\顯揚資訊\@通用程式\SQL轉碼StoredProcedure建立碼\SqlProcedureConverterWinForm\obj\Debug\net8.0-windows7.0\ref\SqlProcedureConverterWinForm.dll
